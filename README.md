@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: Lyrics Search GitHub Solution
+- Solution URL: [Lyrics Search GitHub Solution](https://github.com/MaryAngelique/lyrics-search)
 - Live Site URL: [Lyrics Search Website](https://lyrics-search-zero.vercel.app/)
 
 ## My process
