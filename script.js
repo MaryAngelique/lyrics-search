@@ -47,3 +47,17 @@ function showData(data) {
     }
 }
 
+// Event listeners
+form.addEventListener("submit", event => {
+    event.preventDefault();
+
+    const searchTerm = search.value.trim();
+
+    if (!searchTerm) {
+        alert("Please type in a search term");
+
+    } else {
+        searchSongs(searchTerm);
+    }
+});
+
