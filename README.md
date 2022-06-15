@@ -24,7 +24,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: Lyrics Search GitHub Solution
-- Live Site URL: Lyrics Search Website
+- Live Site URL: [Lyrics Search Website](https://lyrics-search-zero.vercel.app/)
 
 ## My process
 
